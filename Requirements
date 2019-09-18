@@ -1,0 +1,5 @@
+# This is needed to run the index.py file. The .exe will run perfect with or without python.
+
+Python 3.6+ 
+requests
+youtube_dl
